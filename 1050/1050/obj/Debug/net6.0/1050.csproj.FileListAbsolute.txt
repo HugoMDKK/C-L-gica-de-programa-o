@@ -1,0 +1,15 @@
+C:\Users\Hugo\source\repos\1050\1050\bin\Debug\net6.0\1050.exe
+C:\Users\Hugo\source\repos\1050\1050\bin\Debug\net6.0\1050.deps.json
+C:\Users\Hugo\source\repos\1050\1050\bin\Debug\net6.0\1050.runtimeconfig.json
+C:\Users\Hugo\source\repos\1050\1050\bin\Debug\net6.0\1050.dll
+C:\Users\Hugo\source\repos\1050\1050\bin\Debug\net6.0\1050.pdb
+C:\Users\Hugo\source\repos\1050\1050\obj\Debug\net6.0\1050.csproj.AssemblyReference.cache
+C:\Users\Hugo\source\repos\1050\1050\obj\Debug\net6.0\1050.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hugo\source\repos\1050\1050\obj\Debug\net6.0\1050.AssemblyInfoInputs.cache
+C:\Users\Hugo\source\repos\1050\1050\obj\Debug\net6.0\1050.AssemblyInfo.cs
+C:\Users\Hugo\source\repos\1050\1050\obj\Debug\net6.0\1050.csproj.CoreCompileInputs.cache
+C:\Users\Hugo\source\repos\1050\1050\obj\Debug\net6.0\1050.dll
+C:\Users\Hugo\source\repos\1050\1050\obj\Debug\net6.0\refint\1050.dll
+C:\Users\Hugo\source\repos\1050\1050\obj\Debug\net6.0\1050.pdb
+C:\Users\Hugo\source\repos\1050\1050\obj\Debug\net6.0\1050.genruntimeconfig.cache
+C:\Users\Hugo\source\repos\1050\1050\obj\Debug\net6.0\ref\1050.dll

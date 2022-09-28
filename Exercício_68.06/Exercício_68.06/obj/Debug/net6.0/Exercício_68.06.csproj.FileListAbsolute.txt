@@ -1,0 +1,15 @@
+C:\Users\Hugo\source\repos\Exercício_68.06\Exercício_68.06\bin\Debug\net6.0\Exercício_68.06.exe
+C:\Users\Hugo\source\repos\Exercício_68.06\Exercício_68.06\bin\Debug\net6.0\Exercício_68.06.deps.json
+C:\Users\Hugo\source\repos\Exercício_68.06\Exercício_68.06\bin\Debug\net6.0\Exercício_68.06.runtimeconfig.json
+C:\Users\Hugo\source\repos\Exercício_68.06\Exercício_68.06\bin\Debug\net6.0\Exercício_68.06.dll
+C:\Users\Hugo\source\repos\Exercício_68.06\Exercício_68.06\bin\Debug\net6.0\Exercício_68.06.pdb
+C:\Users\Hugo\source\repos\Exercício_68.06\Exercício_68.06\obj\Debug\net6.0\Exercício_68.06.csproj.AssemblyReference.cache
+C:\Users\Hugo\source\repos\Exercício_68.06\Exercício_68.06\obj\Debug\net6.0\Exercício_68.06.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hugo\source\repos\Exercício_68.06\Exercício_68.06\obj\Debug\net6.0\Exercício_68.06.AssemblyInfoInputs.cache
+C:\Users\Hugo\source\repos\Exercício_68.06\Exercício_68.06\obj\Debug\net6.0\Exercício_68.06.AssemblyInfo.cs
+C:\Users\Hugo\source\repos\Exercício_68.06\Exercício_68.06\obj\Debug\net6.0\Exercício_68.06.csproj.CoreCompileInputs.cache
+C:\Users\Hugo\source\repos\Exercício_68.06\Exercício_68.06\obj\Debug\net6.0\Exercício_68.06.dll
+C:\Users\Hugo\source\repos\Exercício_68.06\Exercício_68.06\obj\Debug\net6.0\refint\Exercício_68.06.dll
+C:\Users\Hugo\source\repos\Exercício_68.06\Exercício_68.06\obj\Debug\net6.0\Exercício_68.06.pdb
+C:\Users\Hugo\source\repos\Exercício_68.06\Exercício_68.06\obj\Debug\net6.0\Exercício_68.06.genruntimeconfig.cache
+C:\Users\Hugo\source\repos\Exercício_68.06\Exercício_68.06\obj\Debug\net6.0\ref\Exercício_68.06.dll

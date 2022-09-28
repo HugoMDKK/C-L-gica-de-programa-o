@@ -1,0 +1,15 @@
+C:\Users\Hugo\source\repos\Exercicio.61_03\Exercicio.61_03\obj\Debug\net6.0\Exercicio.61_03.csproj.AssemblyReference.cache
+C:\Users\Hugo\source\repos\Exercicio.61_03\Exercicio.61_03\obj\Debug\net6.0\Exercicio.61_03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hugo\source\repos\Exercicio.61_03\Exercicio.61_03\obj\Debug\net6.0\Exercicio.61_03.AssemblyInfoInputs.cache
+C:\Users\Hugo\source\repos\Exercicio.61_03\Exercicio.61_03\obj\Debug\net6.0\Exercicio.61_03.AssemblyInfo.cs
+C:\Users\Hugo\source\repos\Exercicio.61_03\Exercicio.61_03\obj\Debug\net6.0\Exercicio.61_03.csproj.CoreCompileInputs.cache
+C:\Users\Hugo\source\repos\Exercicio.61_03\Exercicio.61_03\bin\Debug\net6.0\Exercicio.61_03.exe
+C:\Users\Hugo\source\repos\Exercicio.61_03\Exercicio.61_03\bin\Debug\net6.0\Exercicio.61_03.deps.json
+C:\Users\Hugo\source\repos\Exercicio.61_03\Exercicio.61_03\bin\Debug\net6.0\Exercicio.61_03.runtimeconfig.json
+C:\Users\Hugo\source\repos\Exercicio.61_03\Exercicio.61_03\bin\Debug\net6.0\Exercicio.61_03.dll
+C:\Users\Hugo\source\repos\Exercicio.61_03\Exercicio.61_03\bin\Debug\net6.0\Exercicio.61_03.pdb
+C:\Users\Hugo\source\repos\Exercicio.61_03\Exercicio.61_03\obj\Debug\net6.0\Exercicio.61_03.dll
+C:\Users\Hugo\source\repos\Exercicio.61_03\Exercicio.61_03\obj\Debug\net6.0\refint\Exercicio.61_03.dll
+C:\Users\Hugo\source\repos\Exercicio.61_03\Exercicio.61_03\obj\Debug\net6.0\Exercicio.61_03.pdb
+C:\Users\Hugo\source\repos\Exercicio.61_03\Exercicio.61_03\obj\Debug\net6.0\Exercicio.61_03.genruntimeconfig.cache
+C:\Users\Hugo\source\repos\Exercicio.61_03\Exercicio.61_03\obj\Debug\net6.0\ref\Exercicio.61_03.dll

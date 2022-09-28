@@ -1,0 +1,15 @@
+C:\Users\Hugo\source\repos\1114\1114\obj\Debug\net6.0\1114.csproj.AssemblyReference.cache
+C:\Users\Hugo\source\repos\1114\1114\obj\Debug\net6.0\1114.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hugo\source\repos\1114\1114\obj\Debug\net6.0\1114.AssemblyInfoInputs.cache
+C:\Users\Hugo\source\repos\1114\1114\obj\Debug\net6.0\1114.AssemblyInfo.cs
+C:\Users\Hugo\source\repos\1114\1114\obj\Debug\net6.0\1114.csproj.CoreCompileInputs.cache
+C:\Users\Hugo\source\repos\1114\1114\bin\Debug\net6.0\1114.exe
+C:\Users\Hugo\source\repos\1114\1114\bin\Debug\net6.0\1114.deps.json
+C:\Users\Hugo\source\repos\1114\1114\bin\Debug\net6.0\1114.runtimeconfig.json
+C:\Users\Hugo\source\repos\1114\1114\bin\Debug\net6.0\1114.dll
+C:\Users\Hugo\source\repos\1114\1114\bin\Debug\net6.0\1114.pdb
+C:\Users\Hugo\source\repos\1114\1114\obj\Debug\net6.0\1114.dll
+C:\Users\Hugo\source\repos\1114\1114\obj\Debug\net6.0\refint\1114.dll
+C:\Users\Hugo\source\repos\1114\1114\obj\Debug\net6.0\1114.pdb
+C:\Users\Hugo\source\repos\1114\1114\obj\Debug\net6.0\1114.genruntimeconfig.cache
+C:\Users\Hugo\source\repos\1114\1114\obj\Debug\net6.0\ref\1114.dll

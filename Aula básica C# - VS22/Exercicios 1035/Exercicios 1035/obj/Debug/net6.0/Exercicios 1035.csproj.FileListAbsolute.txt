@@ -1,0 +1,15 @@
+C:\Victor\Estudo Dev\Back-And\Aula básica C# - VS22\Exercicios 1035\Exercicios 1035\obj\Debug\net6.0\Exercicios 1035.csproj.AssemblyReference.cache
+C:\Victor\Estudo Dev\Back-And\Aula básica C# - VS22\Exercicios 1035\Exercicios 1035\obj\Debug\net6.0\Exercicios 1035.GeneratedMSBuildEditorConfig.editorconfig
+C:\Victor\Estudo Dev\Back-And\Aula básica C# - VS22\Exercicios 1035\Exercicios 1035\obj\Debug\net6.0\Exercicios 1035.AssemblyInfoInputs.cache
+C:\Victor\Estudo Dev\Back-And\Aula básica C# - VS22\Exercicios 1035\Exercicios 1035\obj\Debug\net6.0\Exercicios 1035.AssemblyInfo.cs
+C:\Victor\Estudo Dev\Back-And\Aula básica C# - VS22\Exercicios 1035\Exercicios 1035\obj\Debug\net6.0\Exercicios 1035.csproj.CoreCompileInputs.cache
+C:\Victor\Estudo Dev\Back-And\Aula básica C# - VS22\Exercicios 1035\Exercicios 1035\bin\Debug\net6.0\Exercicios 1035.exe
+C:\Victor\Estudo Dev\Back-And\Aula básica C# - VS22\Exercicios 1035\Exercicios 1035\bin\Debug\net6.0\Exercicios 1035.deps.json
+C:\Victor\Estudo Dev\Back-And\Aula básica C# - VS22\Exercicios 1035\Exercicios 1035\bin\Debug\net6.0\Exercicios 1035.runtimeconfig.json
+C:\Victor\Estudo Dev\Back-And\Aula básica C# - VS22\Exercicios 1035\Exercicios 1035\bin\Debug\net6.0\Exercicios 1035.dll
+C:\Victor\Estudo Dev\Back-And\Aula básica C# - VS22\Exercicios 1035\Exercicios 1035\bin\Debug\net6.0\Exercicios 1035.pdb
+C:\Victor\Estudo Dev\Back-And\Aula básica C# - VS22\Exercicios 1035\Exercicios 1035\obj\Debug\net6.0\Exercicios 1035.dll
+C:\Victor\Estudo Dev\Back-And\Aula básica C# - VS22\Exercicios 1035\Exercicios 1035\obj\Debug\net6.0\refint\Exercicios 1035.dll
+C:\Victor\Estudo Dev\Back-And\Aula básica C# - VS22\Exercicios 1035\Exercicios 1035\obj\Debug\net6.0\Exercicios 1035.pdb
+C:\Victor\Estudo Dev\Back-And\Aula básica C# - VS22\Exercicios 1035\Exercicios 1035\obj\Debug\net6.0\Exercicios 1035.genruntimeconfig.cache
+C:\Victor\Estudo Dev\Back-And\Aula básica C# - VS22\Exercicios 1035\Exercicios 1035\obj\Debug\net6.0\ref\Exercicios 1035.dll

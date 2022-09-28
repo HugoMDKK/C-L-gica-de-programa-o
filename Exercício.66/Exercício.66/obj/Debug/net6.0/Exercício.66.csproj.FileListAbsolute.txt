@@ -1,0 +1,15 @@
+C:\Users\Hugo\source\repos\Exercício.66\Exercício.66\bin\Debug\net6.0\Exercício.66.exe
+C:\Users\Hugo\source\repos\Exercício.66\Exercício.66\bin\Debug\net6.0\Exercício.66.deps.json
+C:\Users\Hugo\source\repos\Exercício.66\Exercício.66\bin\Debug\net6.0\Exercício.66.runtimeconfig.json
+C:\Users\Hugo\source\repos\Exercício.66\Exercício.66\bin\Debug\net6.0\Exercício.66.dll
+C:\Users\Hugo\source\repos\Exercício.66\Exercício.66\bin\Debug\net6.0\Exercício.66.pdb
+C:\Users\Hugo\source\repos\Exercício.66\Exercício.66\obj\Debug\net6.0\Exercício.66.csproj.AssemblyReference.cache
+C:\Users\Hugo\source\repos\Exercício.66\Exercício.66\obj\Debug\net6.0\Exercício.66.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hugo\source\repos\Exercício.66\Exercício.66\obj\Debug\net6.0\Exercício.66.AssemblyInfoInputs.cache
+C:\Users\Hugo\source\repos\Exercício.66\Exercício.66\obj\Debug\net6.0\Exercício.66.AssemblyInfo.cs
+C:\Users\Hugo\source\repos\Exercício.66\Exercício.66\obj\Debug\net6.0\Exercício.66.csproj.CoreCompileInputs.cache
+C:\Users\Hugo\source\repos\Exercício.66\Exercício.66\obj\Debug\net6.0\Exercício.66.dll
+C:\Users\Hugo\source\repos\Exercício.66\Exercício.66\obj\Debug\net6.0\refint\Exercício.66.dll
+C:\Users\Hugo\source\repos\Exercício.66\Exercício.66\obj\Debug\net6.0\Exercício.66.pdb
+C:\Users\Hugo\source\repos\Exercício.66\Exercício.66\obj\Debug\net6.0\Exercício.66.genruntimeconfig.cache
+C:\Users\Hugo\source\repos\Exercício.66\Exercício.66\obj\Debug\net6.0\ref\Exercício.66.dll

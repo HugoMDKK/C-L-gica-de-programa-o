@@ -1,0 +1,15 @@
+C:\Victor\Estudo Dev\Back-And\Aula básica C# - VS22\1051\1051\obj\Debug\net6.0\1051.csproj.AssemblyReference.cache
+C:\Victor\Estudo Dev\Back-And\Aula básica C# - VS22\1051\1051\obj\Debug\net6.0\1051.GeneratedMSBuildEditorConfig.editorconfig
+C:\Victor\Estudo Dev\Back-And\Aula básica C# - VS22\1051\1051\obj\Debug\net6.0\1051.AssemblyInfoInputs.cache
+C:\Victor\Estudo Dev\Back-And\Aula básica C# - VS22\1051\1051\obj\Debug\net6.0\1051.AssemblyInfo.cs
+C:\Victor\Estudo Dev\Back-And\Aula básica C# - VS22\1051\1051\obj\Debug\net6.0\1051.csproj.CoreCompileInputs.cache
+C:\Victor\Estudo Dev\Back-And\Aula básica C# - VS22\1051\1051\bin\Debug\net6.0\1051.exe
+C:\Victor\Estudo Dev\Back-And\Aula básica C# - VS22\1051\1051\bin\Debug\net6.0\1051.deps.json
+C:\Victor\Estudo Dev\Back-And\Aula básica C# - VS22\1051\1051\bin\Debug\net6.0\1051.runtimeconfig.json
+C:\Victor\Estudo Dev\Back-And\Aula básica C# - VS22\1051\1051\bin\Debug\net6.0\1051.dll
+C:\Victor\Estudo Dev\Back-And\Aula básica C# - VS22\1051\1051\bin\Debug\net6.0\1051.pdb
+C:\Victor\Estudo Dev\Back-And\Aula básica C# - VS22\1051\1051\obj\Debug\net6.0\1051.dll
+C:\Victor\Estudo Dev\Back-And\Aula básica C# - VS22\1051\1051\obj\Debug\net6.0\refint\1051.dll
+C:\Victor\Estudo Dev\Back-And\Aula básica C# - VS22\1051\1051\obj\Debug\net6.0\1051.pdb
+C:\Victor\Estudo Dev\Back-And\Aula básica C# - VS22\1051\1051\obj\Debug\net6.0\1051.genruntimeconfig.cache
+C:\Victor\Estudo Dev\Back-And\Aula básica C# - VS22\1051\1051\obj\Debug\net6.0\ref\1051.dll

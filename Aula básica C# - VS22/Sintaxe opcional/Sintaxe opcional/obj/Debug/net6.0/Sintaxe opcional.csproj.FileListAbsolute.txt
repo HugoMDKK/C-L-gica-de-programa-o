@@ -1,0 +1,15 @@
+C:\Victor\Estudo Dev\Back-And\Aula básica C# - VS22\Sintaxe opcional\Sintaxe opcional\bin\Debug\net6.0\Sintaxe opcional.exe
+C:\Victor\Estudo Dev\Back-And\Aula básica C# - VS22\Sintaxe opcional\Sintaxe opcional\bin\Debug\net6.0\Sintaxe opcional.deps.json
+C:\Victor\Estudo Dev\Back-And\Aula básica C# - VS22\Sintaxe opcional\Sintaxe opcional\bin\Debug\net6.0\Sintaxe opcional.runtimeconfig.json
+C:\Victor\Estudo Dev\Back-And\Aula básica C# - VS22\Sintaxe opcional\Sintaxe opcional\bin\Debug\net6.0\Sintaxe opcional.dll
+C:\Victor\Estudo Dev\Back-And\Aula básica C# - VS22\Sintaxe opcional\Sintaxe opcional\bin\Debug\net6.0\Sintaxe opcional.pdb
+C:\Victor\Estudo Dev\Back-And\Aula básica C# - VS22\Sintaxe opcional\Sintaxe opcional\obj\Debug\net6.0\Sintaxe opcional.csproj.AssemblyReference.cache
+C:\Victor\Estudo Dev\Back-And\Aula básica C# - VS22\Sintaxe opcional\Sintaxe opcional\obj\Debug\net6.0\Sintaxe opcional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Victor\Estudo Dev\Back-And\Aula básica C# - VS22\Sintaxe opcional\Sintaxe opcional\obj\Debug\net6.0\Sintaxe opcional.AssemblyInfoInputs.cache
+C:\Victor\Estudo Dev\Back-And\Aula básica C# - VS22\Sintaxe opcional\Sintaxe opcional\obj\Debug\net6.0\Sintaxe opcional.AssemblyInfo.cs
+C:\Victor\Estudo Dev\Back-And\Aula básica C# - VS22\Sintaxe opcional\Sintaxe opcional\obj\Debug\net6.0\Sintaxe opcional.csproj.CoreCompileInputs.cache
+C:\Victor\Estudo Dev\Back-And\Aula básica C# - VS22\Sintaxe opcional\Sintaxe opcional\obj\Debug\net6.0\Sintaxe opcional.dll
+C:\Victor\Estudo Dev\Back-And\Aula básica C# - VS22\Sintaxe opcional\Sintaxe opcional\obj\Debug\net6.0\refint\Sintaxe opcional.dll
+C:\Victor\Estudo Dev\Back-And\Aula básica C# - VS22\Sintaxe opcional\Sintaxe opcional\obj\Debug\net6.0\Sintaxe opcional.pdb
+C:\Victor\Estudo Dev\Back-And\Aula básica C# - VS22\Sintaxe opcional\Sintaxe opcional\obj\Debug\net6.0\Sintaxe opcional.genruntimeconfig.cache
+C:\Victor\Estudo Dev\Back-And\Aula básica C# - VS22\Sintaxe opcional\Sintaxe opcional\obj\Debug\net6.0\ref\Sintaxe opcional.dll

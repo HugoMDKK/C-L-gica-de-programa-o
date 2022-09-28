@@ -1,0 +1,15 @@
+C:\Victor\Estudo Dev\Back-And\Aula básica C# - VS22\Primeiro\Primeiro\bin\Debug\net6.0\Primeiro.exe
+C:\Victor\Estudo Dev\Back-And\Aula básica C# - VS22\Primeiro\Primeiro\bin\Debug\net6.0\Primeiro.deps.json
+C:\Victor\Estudo Dev\Back-And\Aula básica C# - VS22\Primeiro\Primeiro\bin\Debug\net6.0\Primeiro.runtimeconfig.json
+C:\Victor\Estudo Dev\Back-And\Aula básica C# - VS22\Primeiro\Primeiro\bin\Debug\net6.0\Primeiro.dll
+C:\Victor\Estudo Dev\Back-And\Aula básica C# - VS22\Primeiro\Primeiro\bin\Debug\net6.0\Primeiro.pdb
+C:\Victor\Estudo Dev\Back-And\Aula básica C# - VS22\Primeiro\Primeiro\obj\Debug\net6.0\Primeiro.csproj.AssemblyReference.cache
+C:\Victor\Estudo Dev\Back-And\Aula básica C# - VS22\Primeiro\Primeiro\obj\Debug\net6.0\Primeiro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Victor\Estudo Dev\Back-And\Aula básica C# - VS22\Primeiro\Primeiro\obj\Debug\net6.0\Primeiro.AssemblyInfoInputs.cache
+C:\Victor\Estudo Dev\Back-And\Aula básica C# - VS22\Primeiro\Primeiro\obj\Debug\net6.0\Primeiro.AssemblyInfo.cs
+C:\Victor\Estudo Dev\Back-And\Aula básica C# - VS22\Primeiro\Primeiro\obj\Debug\net6.0\Primeiro.csproj.CoreCompileInputs.cache
+C:\Victor\Estudo Dev\Back-And\Aula básica C# - VS22\Primeiro\Primeiro\obj\Debug\net6.0\Primeiro.dll
+C:\Victor\Estudo Dev\Back-And\Aula básica C# - VS22\Primeiro\Primeiro\obj\Debug\net6.0\refint\Primeiro.dll
+C:\Victor\Estudo Dev\Back-And\Aula básica C# - VS22\Primeiro\Primeiro\obj\Debug\net6.0\Primeiro.pdb
+C:\Victor\Estudo Dev\Back-And\Aula básica C# - VS22\Primeiro\Primeiro\obj\Debug\net6.0\Primeiro.genruntimeconfig.cache
+C:\Victor\Estudo Dev\Back-And\Aula básica C# - VS22\Primeiro\Primeiro\obj\Debug\net6.0\ref\Primeiro.dll

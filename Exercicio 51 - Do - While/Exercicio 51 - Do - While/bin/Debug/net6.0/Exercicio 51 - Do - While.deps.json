@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Exercicio 51 - Do - While/1.0.0": {
+        "runtime": {
+          "Exercicio 51 - Do - While.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exercicio 51 - Do - While/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

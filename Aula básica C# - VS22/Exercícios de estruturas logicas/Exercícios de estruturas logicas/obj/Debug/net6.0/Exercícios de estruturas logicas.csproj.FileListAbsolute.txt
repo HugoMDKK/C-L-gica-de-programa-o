@@ -1,0 +1,15 @@
+C:\Victor\Estudo Dev\Back-And\Aula básica C# - VS22\Exercícios de estruturas logicas\Exercícios de estruturas logicas\obj\Debug\net6.0\Exercícios de estruturas logicas.csproj.AssemblyReference.cache
+C:\Victor\Estudo Dev\Back-And\Aula básica C# - VS22\Exercícios de estruturas logicas\Exercícios de estruturas logicas\obj\Debug\net6.0\Exercícios de estruturas logicas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Victor\Estudo Dev\Back-And\Aula básica C# - VS22\Exercícios de estruturas logicas\Exercícios de estruturas logicas\obj\Debug\net6.0\Exercícios de estruturas logicas.AssemblyInfoInputs.cache
+C:\Victor\Estudo Dev\Back-And\Aula básica C# - VS22\Exercícios de estruturas logicas\Exercícios de estruturas logicas\obj\Debug\net6.0\Exercícios de estruturas logicas.AssemblyInfo.cs
+C:\Victor\Estudo Dev\Back-And\Aula básica C# - VS22\Exercícios de estruturas logicas\Exercícios de estruturas logicas\obj\Debug\net6.0\Exercícios de estruturas logicas.csproj.CoreCompileInputs.cache
+C:\Victor\Estudo Dev\Back-And\Aula básica C# - VS22\Exercícios de estruturas logicas\Exercícios de estruturas logicas\bin\Debug\net6.0\Exercícios de estruturas logicas.exe
+C:\Victor\Estudo Dev\Back-And\Aula básica C# - VS22\Exercícios de estruturas logicas\Exercícios de estruturas logicas\bin\Debug\net6.0\Exercícios de estruturas logicas.deps.json
+C:\Victor\Estudo Dev\Back-And\Aula básica C# - VS22\Exercícios de estruturas logicas\Exercícios de estruturas logicas\bin\Debug\net6.0\Exercícios de estruturas logicas.runtimeconfig.json
+C:\Victor\Estudo Dev\Back-And\Aula básica C# - VS22\Exercícios de estruturas logicas\Exercícios de estruturas logicas\bin\Debug\net6.0\Exercícios de estruturas logicas.dll
+C:\Victor\Estudo Dev\Back-And\Aula básica C# - VS22\Exercícios de estruturas logicas\Exercícios de estruturas logicas\bin\Debug\net6.0\Exercícios de estruturas logicas.pdb
+C:\Victor\Estudo Dev\Back-And\Aula básica C# - VS22\Exercícios de estruturas logicas\Exercícios de estruturas logicas\obj\Debug\net6.0\Exercícios de estruturas logicas.dll
+C:\Victor\Estudo Dev\Back-And\Aula básica C# - VS22\Exercícios de estruturas logicas\Exercícios de estruturas logicas\obj\Debug\net6.0\refint\Exercícios de estruturas logicas.dll
+C:\Victor\Estudo Dev\Back-And\Aula básica C# - VS22\Exercícios de estruturas logicas\Exercícios de estruturas logicas\obj\Debug\net6.0\Exercícios de estruturas logicas.pdb
+C:\Victor\Estudo Dev\Back-And\Aula básica C# - VS22\Exercícios de estruturas logicas\Exercícios de estruturas logicas\obj\Debug\net6.0\Exercícios de estruturas logicas.genruntimeconfig.cache
+C:\Victor\Estudo Dev\Back-And\Aula básica C# - VS22\Exercícios de estruturas logicas\Exercícios de estruturas logicas\obj\Debug\net6.0\ref\Exercícios de estruturas logicas.dll

@@ -1,0 +1,15 @@
+C:\Users\Hugo\source\repos\1079\1079\obj\Debug\net6.0\1079.csproj.AssemblyReference.cache
+C:\Users\Hugo\source\repos\1079\1079\obj\Debug\net6.0\1079.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hugo\source\repos\1079\1079\obj\Debug\net6.0\1079.AssemblyInfoInputs.cache
+C:\Users\Hugo\source\repos\1079\1079\obj\Debug\net6.0\1079.AssemblyInfo.cs
+C:\Users\Hugo\source\repos\1079\1079\obj\Debug\net6.0\1079.csproj.CoreCompileInputs.cache
+C:\Users\Hugo\source\repos\1079\1079\bin\Debug\net6.0\1079.exe
+C:\Users\Hugo\source\repos\1079\1079\bin\Debug\net6.0\1079.deps.json
+C:\Users\Hugo\source\repos\1079\1079\bin\Debug\net6.0\1079.runtimeconfig.json
+C:\Users\Hugo\source\repos\1079\1079\bin\Debug\net6.0\1079.dll
+C:\Users\Hugo\source\repos\1079\1079\bin\Debug\net6.0\1079.pdb
+C:\Users\Hugo\source\repos\1079\1079\obj\Debug\net6.0\1079.dll
+C:\Users\Hugo\source\repos\1079\1079\obj\Debug\net6.0\refint\1079.dll
+C:\Users\Hugo\source\repos\1079\1079\obj\Debug\net6.0\1079.pdb
+C:\Users\Hugo\source\repos\1079\1079\obj\Debug\net6.0\1079.genruntimeconfig.cache
+C:\Users\Hugo\source\repos\1079\1079\obj\Debug\net6.0\ref\1079.dll
